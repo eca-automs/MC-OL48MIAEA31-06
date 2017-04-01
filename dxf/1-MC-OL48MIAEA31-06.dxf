@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-223.9759206767517
+223.9759206767518
  22
-144.8860012792511
+144.8860012792512
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-281.6947341945022
+291.1182139525023
  41
-1.73715651135006
+1.680924855491329
  42
 50
  43
@@ -2357,7 +2357,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-standard
+iso
  70
     0
  40
@@ -2371,7 +2371,7 @@ standard
  42
 1
   3
-standard
+iso
   4
 
   0
@@ -2385,7 +2385,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-iso
+standard
  70
     0
  40
@@ -2399,7 +2399,7 @@ iso
  42
 1
   3
-iso
+standard
   4
 
   0
@@ -8275,7 +8275,7 @@ AcDbMText
  72
     1
   1
-SCHEMA MC-OL48MIAEA31-06\P\PVERSIONE 0.0.1
+SCHEMA MC-OL48MIAEA31-06\P\PVERSIONE 0.1.0
   7
 standard
 210
